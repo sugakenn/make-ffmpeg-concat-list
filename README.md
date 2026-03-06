@@ -1,5 +1,7 @@
 # MP3 Album Merger List Generator
 
+[English](README_EN.md)
+
 FFmpeg の `concat` 機能で MP3 を連結するための **リストファイル
 (`list.dat`)** と、 各曲の **開始時間・再生時間をまとめた情報ファイル
 (`info.txt`)** を生成する PHP CLI スクリプトです。
